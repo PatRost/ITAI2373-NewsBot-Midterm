@@ -2,7 +2,7 @@
 
 **Course:** ITAI 2373 – Natural Language Processing  
 **Project:** Midterm Project  
-**Student:** Patrick  
+**Student:** Patrick Rostand Gandjouon Tchassem
 **Platform:** Google Colab / Python
 
 ## Project Overview
